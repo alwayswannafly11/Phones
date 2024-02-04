@@ -1,0 +1,14 @@
+.phone {
+    color: red;
+    border: 1px solid black;
+    padding: 12px;
+    margin: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hidden {
+    display: none;
+}
+
